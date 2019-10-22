@@ -1,0 +1,12 @@
+{
+  "name": "desafio-01-gostack-bootcamp",
+  "version": "1.0.0",
+  "description": "Desafio 01 do GoStack BootCamp",
+  "main": "index.js",
+  "repository": "https://ctoigo@github.com/ctoigo/desafio-01-gostack-bootcamp.git",
+  "author": "Chrystian Toigo <ctoigo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
